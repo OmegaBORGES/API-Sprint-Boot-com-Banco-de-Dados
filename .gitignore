@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+.mvn/
+.DS_Store
+informacoes_desafio3.txt
+DSW_GR03_desafio_agenda.pdf
